@@ -1,15 +1,24 @@
 h1{
-  color: blue;
+  color: #00f;
   text-align: center;
+  background-color: #EEF042;
 }
 h2{
   color: green;
   font-style: italic;
-  text-align: center;
+  text-align: left;
+  font-family: cursive;
 }
 p{
   font-family: sans-serif;
+  font-style: normal;
 }
 ul{
-  line-height: 40px;
+  line-height: 20px;
+}
+ul{
+  font-style: oblique;
+}
+body{
+  background-color: #D4FAE5;
 }
